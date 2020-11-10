@@ -1,0 +1,30 @@
+_repo: El-poema-de-la-Pampa-Martin-Fierro-y-el-criollismo-espanol_63525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salaverría, José María
+    alias: Salaverria, Jose Maria
+    birthdate: 1873
+    deathdate: 1940
+    gutenberg_agent_id: '51654'
+    url: http://www.gutenberg.org/2009/agents/51654
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Salaverr%C3%ADa
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Salaverr%C3%ADa
+description: ''
+gutenberg_issued: '2020-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63525'
+  lccn: '20005541'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Biblioteca Calleja, 1. ser.
+subjects:
+- !lcsh 'Hernández, José, 1834-1886. Martín Fierro'
+- !lcc 'PQ'
+- GITenberg
+title: 'El poema de la Pampa: "Martín Fierro" y el criollismo español'
+url: http://www.gutenberg.org/ebooks/63525

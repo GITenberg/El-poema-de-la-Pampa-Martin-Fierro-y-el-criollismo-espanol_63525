@@ -1,5 +1,8 @@
 _repo: El-poema-de-la-Pampa-Martin-Fierro-y-el-criollismo-espanol_63525
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63525-h/images/cover.jpg
 creator:
   author:
     agent_name: Salaverría, José María
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Salaverr%C3%ADa
     - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Salaverr%C3%ADa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63525#El-poema-de-la-Pampa-Martin-Fierro-y-el-criollismo-espanol
 gutenberg_issued: '2020-10-22'
 gutenberg_type: Text
 identifiers:
